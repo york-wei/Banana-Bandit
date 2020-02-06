@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jrt-fs">
+    <archive path="C:/Program Files/Java/jdk-13.0.1/lib/jrt-fs.jar" />
+  </library>
+</eclipse-userlibraries>
+
